@@ -1,0 +1,264 @@
+2020-11-04 14:47:31 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 15792 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 14:47:31 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 14:47:31 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 14:47:32 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 1.12 seconds (JVM running for 3.91)
+2020-11-04 14:47:49 INFO  HelloController:14 - hello
+2020-11-04 14:47:49 DEBUG HelloController:16 - hello
+2020-11-04 14:47:49 ERROR HelloController:17 - hello
+2020-11-04 14:47:50 INFO  HelloController:14 - hello
+2020-11-04 14:47:50 DEBUG HelloController:16 - hello
+2020-11-04 14:47:50 ERROR HelloController:17 - hello
+2020-11-04 14:47:50 INFO  HelloController:14 - hello
+2020-11-04 14:47:50 DEBUG HelloController:16 - hello
+2020-11-04 14:47:50 ERROR HelloController:17 - hello
+2020-11-04 14:47:50 INFO  HelloController:14 - hello
+2020-11-04 14:47:50 DEBUG HelloController:16 - hello
+2020-11-04 14:47:50 ERROR HelloController:17 - hello
+2020-11-04 14:47:50 INFO  HelloController:14 - hello
+2020-11-04 14:47:50 DEBUG HelloController:16 - hello
+2020-11-04 14:47:50 ERROR HelloController:17 - hello
+2020-11-04 14:47:50 INFO  HelloController:14 - hello
+2020-11-04 14:47:50 DEBUG HelloController:16 - hello
+2020-11-04 14:47:50 ERROR HelloController:17 - hello
+2020-11-04 14:48:37 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 17852 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 14:48:37 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 14:48:37 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 14:48:38 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 1.234 seconds (JVM running for 3.825)
+2020-11-04 14:48:47 DEBUG HelloController:14 - hello
+2020-11-04 14:48:47 DEBUG HelloController:14 - hello
+2020-11-04 14:48:47 DEBUG HelloController:14 - hello
+2020-11-04 14:58:19 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 8664 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 14:58:19 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 14:58:19 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 14:58:20 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 1.308 seconds (JVM running for 5.799)
+2020-11-04 15:01:38 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 15932 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 15:01:38 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 15:01:38 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 15:01:39 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 1.281 seconds (JVM running for 4.135)
+2020-11-04 15:01:51 DEBUG HelloController:14 - hello
+2020-11-04 15:01:54 DEBUG HelloController:14 - hello
+2020-11-04 15:01:54 DEBUG HelloController:14 - hello
+2020-11-04 15:01:54 DEBUG HelloController:14 - hello
+2020-11-04 15:01:54 DEBUG HelloController:14 - hello
+2020-11-04 15:01:54 DEBUG HelloController:14 - hello
+2020-11-04 15:01:54 DEBUG HelloController:14 - hello
+2020-11-04 15:01:55 DEBUG HelloController:14 - hello
+2020-11-04 15:01:55 DEBUG HelloController:14 - hello
+2020-11-04 15:01:55 DEBUG HelloController:14 - hello
+2020-11-04 15:01:55 DEBUG HelloController:14 - hello
+2020-11-04 15:01:55 DEBUG HelloController:14 - hello
+2020-11-04 15:01:55 DEBUG HelloController:14 - hello
+2020-11-04 15:06:21 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 4512 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 15:06:21 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 15:06:21 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 15:06:22 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 1.203 seconds (JVM running for 3.817)
+2020-11-04 15:06:42 DEBUG HelloController:14 - hello
+2020-11-04 15:06:42 DEBUG HelloController:14 - hello
+2020-11-04 15:06:42 DEBUG HelloController:14 - hello
+2020-11-04 15:06:43 DEBUG HelloController:14 - hello
+2020-11-04 15:06:43 DEBUG HelloController:14 - hello
+2020-11-04 15:06:43 DEBUG HelloController:14 - hello
+2020-11-04 15:06:43 DEBUG HelloController:14 - hello
+2020-11-04 15:06:43 DEBUG HelloController:14 - hello
+2020-11-04 15:06:44 DEBUG HelloController:14 - hello
+2020-11-04 15:06:44 DEBUG HelloController:14 - hello
+2020-11-04 15:06:44 DEBUG HelloController:14 - hello
+2020-11-04 15:06:44 DEBUG HelloController:14 - hello
+2020-11-04 15:06:44 DEBUG HelloController:14 - hello
+2020-11-04 15:06:45 DEBUG HelloController:14 - hello
+2020-11-04 15:06:45 DEBUG HelloController:14 - hello
+2020-11-04 15:06:45 DEBUG HelloController:14 - hello
+2020-11-04 15:06:45 DEBUG HelloController:14 - hello
+2020-11-04 15:06:45 DEBUG HelloController:14 - hello
+2020-11-04 15:06:46 DEBUG HelloController:14 - hello
+2020-11-04 15:06:46 DEBUG HelloController:14 - hello
+2020-11-04 15:06:46 DEBUG HelloController:14 - hello
+2020-11-04 15:06:46 DEBUG HelloController:14 - hello
+2020-11-04 15:06:46 DEBUG HelloController:14 - hello
+2020-11-04 15:06:47 DEBUG HelloController:14 - hello
+2020-11-04 15:06:47 DEBUG HelloController:14 - hello
+2020-11-04 15:06:47 DEBUG HelloController:14 - hello
+2020-11-04 15:06:47 DEBUG HelloController:14 - hello
+2020-11-04 15:06:47 DEBUG HelloController:14 - hello
+2020-11-04 15:06:48 DEBUG HelloController:14 - hello
+2020-11-04 15:06:48 DEBUG HelloController:14 - hello
+2020-11-04 15:06:48 DEBUG HelloController:14 - hello
+2020-11-04 15:06:48 DEBUG HelloController:14 - hello
+2020-11-04 15:06:49 DEBUG HelloController:14 - hello
+2020-11-04 15:06:49 DEBUG HelloController:14 - hello
+2020-11-04 15:06:49 DEBUG HelloController:14 - hello
+2020-11-04 15:06:49 DEBUG HelloController:14 - hello
+2020-11-04 15:06:49 DEBUG HelloController:14 - hello
+2020-11-04 15:06:50 DEBUG HelloController:14 - hello
+2020-11-04 15:06:50 DEBUG HelloController:14 - hello
+2020-11-04 15:06:50 DEBUG HelloController:14 - hello
+2020-11-04 15:06:50 DEBUG HelloController:14 - hello
+2020-11-04 15:06:50 DEBUG HelloController:14 - hello
+2020-11-04 15:06:51 DEBUG HelloController:14 - hello
+2020-11-04 15:06:51 DEBUG HelloController:14 - hello
+2020-11-04 15:06:51 DEBUG HelloController:14 - hello
+2020-11-04 15:06:51 DEBUG HelloController:14 - hello
+2020-11-04 15:06:51 DEBUG HelloController:14 - hello
+2020-11-04 15:10:49 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 5984 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 15:10:49 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 15:10:49 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 15:10:50 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 1.219 seconds (JVM running for 4.188)
+2020-11-04 15:11:46 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 13284 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 15:11:46 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 15:11:46 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 15:11:48 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 1.724 seconds (JVM running for 4.571)
+2020-11-04 15:16:55 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 13448 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 15:16:55 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 15:16:55 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 15:16:56 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 1.255 seconds (JVM running for 4.086)
+2020-11-04 15:17:14 INFO  HelloController:14 - hello
+2020-11-04 15:17:14 INFO  HelloController:14 - hello
+2020-11-04 15:17:15 INFO  HelloController:14 - hello
+2020-11-04 15:17:15 INFO  HelloController:14 - hello
+2020-11-04 15:17:15 INFO  HelloController:14 - hello
+2020-11-04 15:17:15 INFO  HelloController:14 - hello
+2020-11-04 15:17:15 INFO  HelloController:14 - hello
+2020-11-04 15:17:16 INFO  HelloController:14 - hello
+2020-11-04 15:17:16 INFO  HelloController:14 - hello
+2020-11-04 15:17:16 INFO  HelloController:14 - hello
+2020-11-04 15:17:16 INFO  HelloController:14 - hello
+2020-11-04 15:17:16 INFO  HelloController:14 - hello
+2020-11-04 15:17:16 INFO  HelloController:14 - hello
+2020-11-04 15:17:17 INFO  HelloController:14 - hello
+2020-11-04 15:17:17 INFO  HelloController:14 - hello
+2020-11-04 15:17:17 INFO  HelloController:14 - hello
+2020-11-04 15:17:17 INFO  HelloController:14 - hello
+2020-11-04 15:21:20 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 15444 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 15:21:20 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 15:21:20 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 15:21:23 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 2.811 seconds (JVM running for 5.357)
+2020-11-04 15:23:06 INFO  HelloController:14 - hello
+2020-11-04 15:23:06 INFO  HelloController:14 - hello
+2020-11-04 15:23:07 INFO  HelloController:14 - hello
+2020-11-04 15:40:38 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 16336 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 15:40:38 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 15:40:38 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 15:40:39 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 1.658 seconds (JVM running for 4.249)
+2020-11-04 15:41:12 INFO  HelloController:14 - hello
+2020-11-04 15:41:12 INFO  HelloController:14 - hello
+2020-11-04 15:41:13 INFO  HelloController:14 - hello
+2020-11-04 15:41:13 INFO  HelloController:14 - hello
+2020-11-04 15:55:51 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 8096 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 15:55:51 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 15:55:51 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 15:55:52 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 1.355 seconds (JVM running for 3.973)
+2020-11-04 15:56:03 INFO  HelloController:14 - hello
+2020-11-04 15:56:03 INFO  HelloController:14 - hello
+2020-11-04 15:56:03 INFO  HelloController:14 - hello
+2020-11-04 15:56:55 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 10900 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 15:56:55 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 15:56:55 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 15:56:57 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 2.709 seconds (JVM running for 6.25)
+2020-11-04 15:57:04 INFO  HelloController:14 - hello
+2020-11-04 15:57:05 INFO  HelloController:14 - hello
+2020-11-04 15:57:05 INFO  HelloController:14 - hello
+2020-11-04 15:57:33 INFO  HelloController:14 - hello
+2020-11-04 15:57:33 INFO  HelloController:14 - hello
+2020-11-04 15:57:33 INFO  HelloController:14 - hello
+2020-11-04 15:57:33 INFO  HelloController:14 - hello
+2020-11-04 15:57:33 INFO  HelloController:14 - hello
+2020-11-04 16:02:39 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 14888 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:02:39 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:02:39 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:02:41 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 2.877 seconds (JVM running for 5.58)
+2020-11-04 16:02:52 INFO  HelloController:14 - hello
+2020-11-04 16:02:52 INFO  HelloController:14 - hello
+2020-11-04 16:02:52 INFO  HelloController:14 - hello
+2020-11-04 16:02:52 INFO  HelloController:14 - hello
+2020-11-04 16:02:53 INFO  HelloController:14 - hello
+2020-11-04 16:02:53 INFO  HelloController:14 - hello
+2020-11-04 16:02:53 INFO  HelloController:14 - hello
+2020-11-04 16:02:53 INFO  HelloController:14 - hello
+2020-11-04 16:02:53 INFO  HelloController:14 - hello
+2020-11-04 16:04:09 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 11236 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:04:09 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:04:09 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:04:11 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 2.921 seconds (JVM running for 6.566)
+2020-11-04 16:08:02 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 17444 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:08:02 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:08:02 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:08:05 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 2.777 seconds (JVM running for 5.426)
+2020-11-04 16:08:30 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 13752 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:08:30 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:08:30 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:08:32 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 3.481 seconds (JVM running for 8.343)
+2020-11-04 16:09:55 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 10388 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:09:55 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:09:55 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:09:57 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 3.452 seconds (JVM running for 8.031)
+2020-11-04 16:36:57 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 13592 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:36:57 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:36:57 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:37:00 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 2.995 seconds (JVM running for 5.743)
+2020-11-04 16:38:30 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 11076 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:38:30 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:38:30 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:38:33 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 2.852 seconds (JVM running for 5.677)
+2020-11-04 16:39:39 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 6652 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:39:39 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:39:39 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:39:41 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 2.473 seconds (JVM running for 5.688)
+2020-11-04 16:41:57 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 18912 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:41:57 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:41:57 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:41:59 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 3.386 seconds (JVM running for 8.335)
+2020-11-04 16:42:51 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 16288 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:42:51 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:42:51 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:42:53 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 2.552 seconds (JVM running for 5.292)
+2020-11-04 16:43:49 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 14164 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:43:49 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:43:49 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:43:52 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 3.031 seconds (JVM running for 5.876)
+2020-11-04 16:45:15 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 8140 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:45:15 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:45:15 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:45:18 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 3.732 seconds (JVM running for 8.199)
+2020-11-04 16:45:18 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:20 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:20 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:21 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:21 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:21 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:23 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:24 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:54 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:54 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:55 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:55 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:55 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:55 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:55 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:56 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:45:56 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 16:58:27 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 17824 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 16:58:27 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 16:58:27 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 16:58:29 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 3.466 seconds (JVM running for 8.418)
+2020-11-04 17:01:08 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:01:08 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:01:08 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:01:08 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:01:08 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:01:09 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:01:09 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:28 INFO  Log4jcassandraappendertestApplication:55 - Starting Log4jcassandraappendertestApplication on dev-akhaled with PID 17772 (D:\Projects\POCs\log4jcassandraappender\target\classes started by akhaled in D:\Projects\POCs\log4jcassandraappender)
+2020-11-04 17:05:28 DEBUG Log4jcassandraappendertestApplication:56 - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-04 17:05:28 INFO  Log4jcassandraappendertestApplication:651 - No active profile set, falling back to default profiles: default
+2020-11-04 17:05:31 INFO  Log4jcassandraappendertestApplication:61 - Started Log4jcassandraappendertestApplication in 4.193 seconds (JVM running for 7.243)
+2020-11-04 17:05:35 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:35 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:36 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:36 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:36 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:36 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:36 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:37 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:37 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:37 DEBUG HelloController:14 - hello |messageId:123|
+2020-11-04 17:05:37 DEBUG HelloController:14 - hello |messageId:123|

@@ -1,0 +1,14 @@
+CREATE KEYSPACE logs WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 1};
+
+CREATE TABLE logs (
+    id timeuuid PRIMARY KEY,
+    timeid timeuuid,
+    message text,
+    messageid text,
+    level text,
+    marker text,
+    logger text,
+    timestamp timestamp,
+    mdc map<text,text>,
+    ndc list<text>
+);
